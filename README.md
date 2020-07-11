@@ -25,6 +25,13 @@
 | $style  | 自定义样式  | string   | 可选 |
 
 
+## Demo
+![preview](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20200711112058.png)
+
+
+
+[Demo](https://blog.littlejake.net/)
+
 ## 鸣谢
 Typecho
 
