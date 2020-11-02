@@ -47,7 +47,7 @@ class RandomThumbnail_Plugin implements Typecho_Plugin_Interface
 </div>
 EOF,
             _t('图片显示自定义模板'),
-            _t('可用变量参考：<a href="https://developer.hitokoto.cn/sentence/#返回格式" target="_blank">https://developer.hitokoto.cn/sentence/#返回格式</a>')
+            _t('可用变量参考：<a href="https://github.com/LittleJake/Typecho-RandomThumbnail/blob/master/README.md" target="_blank">README.md</a>')
         );
 
         $form->addInput($url);
